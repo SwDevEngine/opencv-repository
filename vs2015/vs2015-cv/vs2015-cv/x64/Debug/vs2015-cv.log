@@ -1,0 +1,11 @@
+﻿  openCvOps.cpp
+  OpenCvCoreInf.cpp
+  OpenCvCoreImp.cpp
+  Main.cpp
+  ImageProcessFactoryInf.cpp
+  ImageProcessFactoryImp.cpp
+  CppDebugInf.cpp
+  CppDebugImp.cpp
+  Generating Code...
+  vs2015-cv.vcxproj -> F:\openCV\opencv-repository\vs2015\vs2015-cv\x64\Debug\vs2015-cv.exe
+  vs2015-cv.vcxproj -> F:\openCV\opencv-repository\vs2015\vs2015-cv\x64\Debug\vs2015-cv.pdb (Full PDB)
